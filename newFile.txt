@@ -3,3 +3,9 @@
 这种男人非常不错！
 加油！！！！
 
+
+更新一下，记忆一下远程提交命令：
+先从远程clone下来，修改后：
+git push git@github.com:scott2014/test.git
+
+
