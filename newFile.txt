@@ -6,6 +6,10 @@
 
 更新一下，记忆一下远程提交命令：
 先从远程clone下来，修改后：
-git push git@github.com:scott2014/test.git
+git push git@github.com:scott2014/test.git master
+
+
+刚刚提交弄错了，少一个分支标记
+记录一下
 
 
